@@ -1,7 +1,4 @@
 
-#Background {
-    background-color:gray;
-}
 h1 {
     color: black;
     font-family: Verdana, "Dejavu Sans", sans-serif;
@@ -12,13 +9,18 @@ h1 {
     text-align: center;
 }
 
-p,
-button {
+.buttons button{
     color: black;
     font-size: 24px;
     text-align: center;
+    background-color: yellow;
+    
 }
 
-button {
-    background-color: yellow;
+
+
+.background {
+    background-image: url(1200pxkitchen.jpeg);
+    background-size: cover;
 }
+
