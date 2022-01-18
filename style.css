@@ -1,20 +1,21 @@
 
-h1 {
+
+
+
+* {
     color: black;
     font-family: Verdana, "Dejavu Sans", sans-serif;
-    text-align: center;
+    
 }
 
 #Centered {
     text-align: center;
 }
 
-.buttons button{
-    color: black;
-    font-size: 24px;
-    text-align: center;
+#buttons button, button a {
     background-color: yellow;
-    
+    font-size: 20px;
+    color: black;
 }
 
 p {
@@ -29,6 +30,10 @@ p {
 img {
     height: auto;
     width: 300px;
+}
+
+a {
+    color: blue;
 }
 
 
