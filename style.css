@@ -8,6 +8,17 @@
     
 }
 
+#title {
+    text-align: center;
+    background-color: rgb(0, 255, 55);
+    padding: 30px;
+}
+h1 {
+    box-sizing: border-box;
+    width: 500px;
+  
+}
+
 #Centered {
     text-align: center;
 }
