@@ -54,3 +54,12 @@ a {
     font-weight: bold;
 }
 
+header {
+    position: fixed;
+    
+}
+
+#contents {
+    margin: 32px 97px;
+    padding: 16px;
+}
