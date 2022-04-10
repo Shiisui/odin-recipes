@@ -1,7 +1,4 @@
 
-
-
-
 * {
     color: black;
     font-family: Verdana, "Dejavu Sans", sans-serif;
@@ -17,6 +14,8 @@ h1 {
     box-sizing: border-box;
     width: 400px;
     margin: 10px auto;
+    border: solid;
+    border-color: black;
   
 }
 
