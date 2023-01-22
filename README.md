@@ -6,7 +6,7 @@ Assignment for the HTML course of <a href="https://www.theodinproject.com/" rel=
 
 Specifications and details for the assignment can be found <a href="https://www.theodinproject.com/lessons/foundations-recipes" rel="nofollow">here</a>.
 
-View the <a href="https://aleksandar-code.github.io/recipes/index.html" rel="nofollow">website</a>.
+View the <a href="https://aleksandar-code.github.io/recipes/index.html" rel="nofollow">recipes</a>.
 
 ## Thoughts
 
