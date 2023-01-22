@@ -8,7 +8,7 @@ Specifications and details for the assignment can be found <a href="https://www.
 
 View the <a href="https://aleksandar-code.github.io/recipes/index.html" rel="nofollow">recipes</a>.
 
-## Thoughts
+## Information
 
 This is my first project with HTML & CSS, it was great to show to my family and friends.
 
